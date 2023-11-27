@@ -1,0 +1,51 @@
+.header {
+    align-items: flex-start;
+    display
+    justify-content: center;
+    margin: 2rem;
+    padding: 2rem;
+}
+.main-body {
+    /* background-color: red; */
+    padding: 1.5rem;
+    margin: 1fr;
+}
+.body {
+    display: flex;
+    justify-content: left;
+    margin: 2rem;
+    padding: 2rem;
+}
+button {
+    color: green;
+    width : 10%;
+    height: 5%;
+}
+.lowerbody{
+    display: flex;
+    justify-content: center;
+    margin:2rem;
+    padding: 2rem;
+
+}
+.input {
+    display: flex;
+    justify-self: center;
+}
+.icon {
+    width: 40%;
+}
+.form {
+    width: 100%;
+}
+button {
+    color: green;
+    width : 10%;
+    height: 5%;
+}
+html {
+    font-family: 'Inter';
+}
+footer {
+    background-color: darkslategrey;
+}
